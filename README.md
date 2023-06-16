@@ -1,6 +1,6 @@
 # Yellow Pages Scraper
 
-This scraper extracts data such as business name, category, rating, review, year, website, phone, street, and city from Yellow Pages. It is made with [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and [Requests](https://docs.python-requests.org/en/latest/) libraries in Python.
+This scraper extracts data such as business name, category, rating, review, year, website, phone, street, and city from Yellow Pages. It is made with [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) , [Requests](https://docs.python-requests.org/en/latest/) and [Pandas](https://pandas.pydata.org/docs/) libraries in Python.
 
 ## Installation
 
